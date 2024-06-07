@@ -14,7 +14,6 @@ spec:
     informationAuthor: admin
     modality:
       - CT
-      - PET
     bodyParts: ''
     processingPurpose: ''
     protocol: ''
