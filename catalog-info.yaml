@@ -11,17 +11,18 @@ spec:
   projectInfo:
     projectName: MultiSelectData
     moduleName: Multi
-    informationAuthor: admin
+    informationAuthor: guest
     modality:
       - CT
-    bodyParts: ''
+      - PET
+    bodyParts: Cardiac
     processingPurpose: ''
     protocol: ''
     algorithmType: ''
     packageType: ''
-    supportedOs: ''
+    supportedOs: Linux
     sourceCodeLanguage: ''
-    developmentStatus: ''
+    developmentStatus: DEVELOPMENT
     linkToProject: ''
   applicationInfo:
     linkAPI: ''
