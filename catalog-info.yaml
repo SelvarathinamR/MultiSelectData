@@ -44,7 +44,7 @@ spec:
     clinicalData: ''
   algorithmInformation:
     developmentPurpose: ''
-    developmentStatus: ''
+    developmentStatus: Research Prototype
     algorithmDevelopmentCompany: ''
     personinCharge: ''
     collaborativeResearchPartner: ''
