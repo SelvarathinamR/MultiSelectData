@@ -51,6 +51,6 @@ spec:
     existenceofExternalIP: ''
   technologyInformationforCMRE:
     fundingProject: ''
-    group: ''
-    TRL: ''
-    projectStatus: ''
+    group: IMAGE ANALYSIS
+    TRL: NICE
+    projectStatus: ACTIVE
