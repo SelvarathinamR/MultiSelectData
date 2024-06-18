@@ -51,5 +51,5 @@ spec:
   technologyInformationforCMRE:
     fundingProject: ''
     group: IMAGE ANALYSIS
-    TRL: NICE
-    projectStatus: ACTIVE
+    TRL: E-NICE
+    projectStatus: RETIRED
