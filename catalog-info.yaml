@@ -24,7 +24,7 @@ spec:
     developmentStatus: DEVELOPMENT
     linkToProject: ''
   applicationInfo:
-    linkAPI: ''
+    linkAPI: t
     inputImages: ''
     inputValues: ''
     outputImages: ''
